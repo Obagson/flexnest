@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/payment-processor.clar"
 depends_on = []
 
+[contracts.subscription-analytics]
+path = "contracts/subscription-analytics.clar"
+depends_on = []
+
 [contracts.subscription-manager]
 path = "contracts/subscription-manager.clar"
 depends_on = []
